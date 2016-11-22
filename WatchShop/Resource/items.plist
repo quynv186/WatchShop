@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Watch1</key>
+	<dict>
+		<key>name</key>
+		<string>Đồng hồ Casio</string>
+		<key>price</key>
+		<string>200.000VND</string>
+		<key>images</key>
+		<array>
+			<string>watch1-0</string>
+			<string>watch1-1</string>
+			<string>watch1-2</string>
+			<string>watch1-3</string>
+			<string>watch1-4</string>
+			<string>watch1-5</string>
+			<string>watch1-6</string>
+			<string>watch1-7</string>
+		</array>
+		<key>content</key>
+		<string>Đồng hồ Casio
+
+Đồng hồ Casio dây da, dây kim loại chính hãng
+
+JPWatch là địa chỉ phân phối đồng hồ Casio dây da, dây kim loại chính hãng hàng đầu tại Hà Nội, có giấy chứng nhận ủy quyền của An Khánh và đã được khách hàng trên khắp cả nước tin tưởng, ủng hộ trong khoảng 5 năm trở lại đây.
+
+</string>
+	</dict>
+	<key>Watch2</key>
+	<dict>
+		<key>name</key>
+		<string>Đồng hồ Citizen</string>
+		<key>price</key>
+		<string>99.000VND</string>
+		<key>images</key>
+		<array>
+			<string>watch2-0</string>
+			<string>watch2-1</string>
+			<string>watch2-2</string>
+			<string>watch2-3</string>
+			<string>watch2-4</string>
+			<string>watch2-5</string>
+		</array>
+		<key>content</key>
+		<string>Vẫn trung thành với câu slogan của Citizen: “Nơi đâu có ánh sáng, ở đó có năng lượng”, bộ sưu tập Eco-Drive tiếp tục lôi cuốn giới ưa chuộng đồng hồ.</string>
+	</dict>
+	<key>Watch3</key>
+	<dict>
+		<key>name</key>
+		<string>Đồng hồ Epos Swiss</string>
+		<key>price</key>
+		<string>$$$$$$</string>
+		<key>images</key>
+		<array>
+			<string>watch3-0</string>
+			<string>watch3-1</string>
+			<string>watch3-2</string>
+			<string>watch3-3</string>
+			<string>watch3-4</string>
+			<string>watch3-5</string>
+		</array>
+		<key>content</key>
+		<string>Epos là một trong top 10 hãng đồng hồ độc lập rất uy tín trong ngành đồng hồ Thụy Sỹ. Những chiếc đồng hồ được sản xuất bằng tay với bí quyết lâu đời đã tạo ra những chiếc đồng hồ tuyệt vời.</string>
+	</dict>
+	<key>Watch4</key>
+	<dict>
+		<key>name</key>
+		<string>Bruno Sohnle Glashutte</string>
+		<key>price</key>
+		<string>300.000VND</string>
+		<key>images</key>
+		<array>
+			<string>watch4-0</string>
+			<string>watch4-1</string>
+			<string>watch4-2</string>
+			<string>watch4-3</string>
+			<string>watch4-4</string>
+			<string>watch4-5</string>
+		</array>
+		<key>content</key>
+		<string>Khác với người Pháp bị ám ảnh bởi đồng hồ siêu mỏng, người Thụy Sĩ chuyên làm đồng hồ đẹp như trang sức, từ lâu, một chiếc đồng hồ Đức cứng cáp và thực dụng luôn được xem là biểu tượng của đàn ông đích thực.</string>
+	</dict>
+	<key>Watch5</key>
+	<dict>
+		<key>name</key>
+		<string>Đồng hồ Tourbillon Memorigin</string>
+		<key>price</key>
+		<string>450.000VND</string>
+		<key>images</key>
+		<array>
+			<string>watch5-0</string>
+			<string>watch5-1</string>
+			<string>watch5-2</string>
+			<string>watch5-3</string>
+			<string>watch5-4</string>
+			<string>watch5-5</string>
+		</array>
+		<key>content</key>
+		<string>Đồng hồ sử dụng bộ máy cơ khí tinh xảo tourbillon ở Việt Nam hiện chỉ có duy nhất tại hệ thống bán lẻ hàng đầu Đăng Quang Watch</string>
+	</dict>
+	<key>Watch6</key>
+	<dict>
+		<key>name</key>
+		<string>Đồng hồ Diamond D</string>
+		<key>price</key>
+		<string>299.000VND</string>
+		<key>images</key>
+		<array>
+			<string>watch6-0</string>
+			<string>watch6-1</string>
+			<string>watch6-2</string>
+			<string>watch6-3</string>
+			<string>watch6-4</string>
+			<string>watch6-5</string>
+		</array>
+		<key>content</key>
+		<string>Đồng hồ Diamond D mang đến cho khách hàng vẻ đẹp tinh tế, vĩnh cửu như những viên kim cương thuần khiết được tạo nên qua quá trình hàng triệu năm. Với thiết kế tinh xảo, mặt kính sử dụng đá saphia chống xước hoàn toàn đem đến cho quý khách một sản phẩm hoàn hảo với chất lượng vượt trội. Đó là vẻ đẹp vĩnh cửu. Sản phẩm được bảo hành trọn đời.</string>
+	</dict>
+</dict>
+</plist>
